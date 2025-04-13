@@ -2,3 +2,4 @@ modyfikacja pierwszego pliku
 kolejna linia tekstu
 zmiany w kopii oraz konfliktowa linia
 zmiana na branchu g1
+branch g2
