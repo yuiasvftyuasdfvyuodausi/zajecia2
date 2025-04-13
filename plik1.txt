@@ -1,3 +1,4 @@
 modyfikacja pierwszego pliku
 kolejna linia tekstu
 zmiany w kopii oraz konfliktowa linia
+drugierepoglocal
